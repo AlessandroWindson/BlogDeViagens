@@ -1,7 +1,6 @@
 
 let menu = document.querySelector('#menu-bar');
 let navbar = document.querySelector('.navbar');
-let videoBtn = document.querySelectorAll('.   ');
 
 window.onscroll = () =>{
     menu.classList.remove('fa-times');
